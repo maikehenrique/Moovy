@@ -1,0 +1,6 @@
+{
+  "appId": "com.app.moovy",
+  "appName": "moovy",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}

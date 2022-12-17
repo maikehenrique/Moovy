@@ -1,0 +1,17 @@
+{
+    "folders": [
+        {"path": "bd"},
+        {"path": "backend"},
+        {"path": "frontend"},
+    ],
+	"settings": {
+		"eslint.format.enable": true,
+		"editor.codeActionsOnSave": {
+			"source.fixAll.eslint": true,
+		},
+		"[json]": {},
+		"terminal.external.windowsExec": "C:\\Program Files\\Git\\bin\\bash.exe",
+		"terminal.integrated.automationShell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+		"explorer.confirmDelete": false,
+	}
+}
