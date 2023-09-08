@@ -26,7 +26,7 @@
 - [Running](#running)
 
 ## 🧐 About <a name = "about"></a>
-Movvy is a project part of the selection process for fullstack Developers. Moovy is a project aimed at film enthusiasts so they can seek out and learn from them. In it, the user can add his favorite movies to his library and even carry out an audio review so that they can be heard whenever he wants.
+Movvy is a project part of the selection process for fullstack Developers. Moovy is a project aimed at film enthusiasts so they can seek out and learn from them. In it, the user can add his favorite movies to his library and even carry out an audio review so that they can be heard whenever he wants. You can access it at: https://movvy-built.vercel.app/
 ### Prerequisites
 
  * Postgresql
