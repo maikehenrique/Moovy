@@ -14,6 +14,10 @@
 
 <p align="center"> Moovy has added your favorite movies to your library and leave your audio commentary to listen whenever and wherever you want!
     <br> 
+    <div align="center">
+      
+![image](https://github.com/maikehenrique/Moovy/assets/54610589/ca8819b0-3a51-43a0-a031-4fd34fb21974)
+    </div>
 </p>
 
 ## 📝 Table of Contents
